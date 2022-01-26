@@ -521,16 +521,19 @@ footer {
     position: relative;
     top: 0;
   }
-
-   .productTitle{
+  .productTitle{
     font-size: 30px; 
     margin: 0;
   }
-   .productPrice{
-    font-size: 15px;
+  .productPrice{
+    font-size: 25px;
   }
-   .size {
-  font-size: 15px;
+  .productDesc {
+    font-style: 20px; 
+  }
+  .size {
+   padding: 5px 10px;
+   font-size: 10px;
   }
 
   .gallery{
