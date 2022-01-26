@@ -522,9 +522,12 @@ footer {
     top: 0;
   }
 
-  .productTitle{
-    font-size: 50px;
+   .productTitle{
+    font-size: 30px; 
     margin: 0;
+  }
+   .productPrice{
+    font-size: 10px;
   }
 
   .gallery{
