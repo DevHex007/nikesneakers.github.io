@@ -527,7 +527,10 @@ footer {
     margin: 0;
   }
    .productPrice{
-    font-size: 10px;
+    font-size: 15px;
+  }
+   .size {
+  font-size: 15px;
   }
 
   .gallery{
